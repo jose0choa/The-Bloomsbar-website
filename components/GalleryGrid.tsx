@@ -3,20 +3,20 @@
 import Image from "next/image";
 import { useState } from "react";
 
-// const images = [
-//   "/gallery/bouquet-1.jpg",
-//   "/gallery/bouquet-2.jpg",
-//   "/gallery/bouquet-3.jpg",
-//   "/gallery/bouquet-4.jpg",
-//   "/gallery/bouquet-5.jpg",
-//   "/gallery/bouquet-6.jpg",
-//   "/gallery/bouquet-7.jpg",
-//   "/gallery/bouquet-8.jpg",
-//   "/gallery/bouquet-9.jpg",
-//   "/gallery/bouquet-10.jpg",
-//   "/gallery/bouquet-11.JPG",
-//   "/gallery/bouquet-12.jpg",
-// ];
+const images = [
+  "/gallery/bouquet-1.jpg",
+  "/gallery/bouquet-2.jpg",
+  "/gallery/bouquet-3.jpg",
+  "/gallery/bouquet-4.jpg",
+  "/gallery/bouquet-5.jpg",
+  "/gallery/bouquet-6.jpg",
+  "/gallery/bouquet-7.jpg",
+  "/gallery/bouquet-8.jpg",
+  "/gallery/bouquet-9.jpg",
+  "/gallery/bouquet-10.jpg",
+  "/gallery/bouquet-11.JPG",
+  "/gallery/bouquet-12.jpg",
+];
 
 export default function GalleryGrid() {
   const [activeImage, setActiveImage] = useState<string | null>(null);

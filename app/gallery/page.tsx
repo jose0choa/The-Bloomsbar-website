@@ -12,7 +12,7 @@ export default function GalleryPage() {
           order.
         </p>
 
-        {/* <GalleryGrid /> */}
+        <GalleryGrid />
 
         <a
         href="https://instagram.com/_thebloomsbar_"
