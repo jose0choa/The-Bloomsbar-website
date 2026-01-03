@@ -15,7 +15,7 @@ const images = [
   "/gallery/bouquet-9.JPG",
   "/gallery/bouquet-10.JPG",
   "/gallery/bouquet-11.JPG",
-  "/gallery/bouquet-12.jpg",
+  "/gallery/bouquet-12.JPG",
 ];
 
 export default function GalleryGrid() {
