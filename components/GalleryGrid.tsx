@@ -4,16 +4,16 @@ import Image from "next/image";
 import { useState } from "react";
 
 const images = [
-  "/gallery/bouquet-1.jpg",
-  "/gallery/bouquet-2.jpg",
-  "/gallery/bouquet-3.jpg",
-  "/gallery/bouquet-4.jpg",
-  "/gallery/bouquet-5.jpg",
-  "/gallery/bouquet-6.jpg",
-  "/gallery/bouquet-7.jpg",
-  "/gallery/bouquet-8.jpg",
-  "/gallery/bouquet-9.jpg",
-  "/gallery/bouquet-10.jpg",
+  "/gallery/bouquet-1.JPG",
+  "/gallery/bouquet-2.JPG",
+  "/gallery/bouquet-3.JPG",
+  "/gallery/bouquet-4.JPG",
+  "/gallery/bouquet-5.JPG",
+  "/gallery/bouquet-6.JPG",
+  "/gallery/bouquet-7.JPG",
+  "/gallery/bouquet-8.JPG",
+  "/gallery/bouquet-9.JPG",
+  "/gallery/bouquet-10.JPG",
   "/gallery/bouquet-11.JPG",
   "/gallery/bouquet-12.jpg",
 ];
