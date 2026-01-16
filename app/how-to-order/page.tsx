@@ -47,11 +47,11 @@ export default function HowToOrderPage() {
           ))}
         </div>
 
-        {/* CTA placeholder — link later */}
+        {/* CTA placeholder —*/}
         <div className="mt-16 flex flex-col items-center gap-4">
-          {/* Primary CTA – Google Form (placeholder for now) */} 
+          {/* Primary CTA – Google Form */} 
           <a 
-            href="https://docs.google.com/forms/d/1C6qY_eDhqowr34cv_ak6qVuvX4XjrSRJcMyYMoSaO0M/edit" 
+            href="https://docs.google.com/forms/d/1MHdJPLJGScOCMw1WnV1hDGWchM8u5iTdOGmOC_ruBbM/edit" 
             target="_blank" 
             className="px-8 py-3 bg-emerald-700 text-white rounded-full hover:opacity-90 transition" 
           > 
