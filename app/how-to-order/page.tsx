@@ -51,20 +51,11 @@ export default function HowToOrderPage() {
         <div className="mt-16 flex flex-col items-center gap-4">
           {/* Primary CTA – Google Form */} 
           <a 
-            href="https://docs.google.com/forms/d/1MHdJPLJGScOCMw1WnV1hDGWchM8u5iTdOGmOC_ruBbM/edit" 
+            href="https://instagram.com/_thebloomsbar_" 
             target="_blank" 
             className="px-8 py-3 bg-emerald-700 text-white rounded-full hover:opacity-90 transition" 
           > 
-            Request a Bouquet
-          </a> 
-          
-          {/* Secondary CTA – Instagram */} 
-          <a 
-            href="https://instagram.com/_thebloomsbar_" 
-            target="_blank" 
-            className="px-7 py-3 border border-neutral-600 text-neutral-900 rounded-full hover:bg-neutral-100 transition" 
-          > 
-            Order via Instagram 
+            Order via Instagram
           </a> 
         </div>
       </div>

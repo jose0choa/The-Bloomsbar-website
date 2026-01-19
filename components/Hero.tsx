@@ -16,19 +16,11 @@ export default function Hero() {
             handcrafted with care for every occasion.
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
-            <a
-              href="https://docs.google.com/forms/d/1MHdJPLJGScOCMw1WnV1hDGWchM8u5iTdOGmOC_ruBbM/edit"
-              target="_blank"
-              className="px-8 py-3 bg-emerald-700 text-white rounded-full hover:opacity-90 transition"
-            >
-              Request a Bouquet
-            </a>
-
+          <div className="flex justify-center md:justify-start">
             <a
               href="https://instagram.com/_thebloomsbar_"
               target="_blank"
-              className="px-8 py-3 border border-neutral-900 rounded-full hover:bg-neutral-100 transition"
+              className="px-8 py-3 bg-emerald-700 text-white rounded-full hover:opacity-90 transition"
             >
               Order via Instagram
             </a>
